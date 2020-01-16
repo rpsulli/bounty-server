@@ -11,7 +11,7 @@ npm install
 
 **Start Server:**
 ```
-node index.js
+npm start
 ```
 
 **Display files in /captured directory:**
