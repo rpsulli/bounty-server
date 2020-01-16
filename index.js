@@ -30,4 +30,4 @@ app.get('/c/', (req, res) => {
 
 http.createServer(app).listen(9000);
 
-console.log('Listening on :9000');
+console.log('Listening on http://localhost:9000');
