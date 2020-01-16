@@ -23,3 +23,8 @@ http://localhost:9000/
 ```
 http://localhost:9000/c/?c=my-captured-string
 ```
+
+**Delete all files in /captured directory:**
+```
+npm run clean
+```
